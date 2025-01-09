@@ -1,0 +1,21 @@
+body{
+    background-color: rgba(90, 107, 155, 0.774);
+}
+
+h1{
+    text-align: right;
+    color: #04111d;
+}
+
+h2{
+    color: rgb(169, 174, 179);
+}
+
+h3{
+    color: aliceblue;
+}
+
+p{
+    color: brown;
+    font-size: 16px;
+}
